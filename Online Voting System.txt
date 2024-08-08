@@ -1,0 +1,101 @@
+Online Voting System
+=================================
+Home Page
+========================
+1.Admin
+2.User
+3.Exit
+=====================
+1.
+Admin
+============================
+1.Admin registration
+2.Admin login
+3.Exit
+============================
+1. Admin Registration
+;
+;
+;
+;
+====================
+2.Admin Login
+
+1.Add Election
+2.Add candidate
+3.View results
+4.View votes
+5.logout
+=====================
+1.Add Election:
+
+Election Name:
+end date:
+Submit:
+
+===================
+2.Add canditate
+
+select election
+candidate name
+party name
+adress
+phone number
+image
+submit
+===============================
+3.view result
+
+select election
+submit
+
+candidate profile candidate name party name total votes
+
+Elecrion result
+
+====================
+4.view votes 
+
+userid name email dob address phone no status action 
+
+
+====================
+1.Admin Login
+2.User
+3.Exit
+=====================
+2.User Login
+
+1.Register User
+2.Login User
+
+=================
+1
+;
+;
+;
+;
+=====================
+2.login user
+
+mail id :
+password:
+=====================
+1.Election Vote
+2.Profile Details
+3.Exit
+========================
+1.
+
+select election
+
+list
+1.
+2.
+3.
+
+candidate profile 
+candiate name
+party name 
+vote
+
